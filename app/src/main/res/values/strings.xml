@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DexNavStudio</string>
+    <string name="title_activity_pokemon_view">PokemonViewActivity</string>
+    <string name="normal_label">Normal</string>
+    <string name="shiny_label">Shiny</string>
+    <string name="moves_label">Move List</string>
+    <string name="title_activity_sprite_view">SpriteViewActivity</string>
+    <string name="title_activity_test">test</string>
+    <string name="defaultMale">Default Male</string>
+    <string name="defaultMaleBack">Default Male (Back)</string>
+    <string name="defaultFemale">Default Female</string>
+    <string name="defualtFemaleBack">Female Default (Back)</string>
+    <string name="shinyMale">Shiny Male</string>
+    <string name="shinyMaleBack">Shiny Male (Back)</string>
+    <string name="shinyFemale">Shiny Female</string>
+    <string name="shinyFemaleBack">Shiny Female (Back)</string>
+    <string name="spriteTitle">Sprite View</string>
+    <string name="noFemaleError">N/A (No Female Variance)</string>
+    <string name="drawer_open">DexNav</string>
+    <string name="drawer_close">DexNav|Pokemon</string>
+    <string name="pokemon_favorites_key">com.joemoss.dexnavstudio.POKEMON_FAVORITES_KEY</string>
+    <string name="abilities_label">Potential Abilities</string>
+    <string name="pokeDex">PokeDex</string>
+    <string name="favorites">Favorites</string>
+    <string name="sprite_content_description"> </string>
+    <string name="favorite_button">Favorite Button</string>
+    <string name="no_sprite">(N/A)</string>
+</resources>
