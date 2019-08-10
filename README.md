@@ -3,4 +3,4 @@ DexNav is a mobile Pokedex app designed for Android in AndroidStudio during my j
 
 # Demo
 
-![](DexNavDemo.webm)
+![](DexNavDemo.gif)
